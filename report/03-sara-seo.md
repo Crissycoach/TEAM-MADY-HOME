@@ -33,13 +33,28 @@ etichettati come DATO INTERNO NECESSARIO.
 
 ## 2. Gap critici (FATTO — verificati per assenza)
 
-1. **Nessun Google Business Profile individuato.** Per un ricettivo estrattivo
-   locale, il GBP è probabilmente la singola leva SEO gratuita più importante
-   (compare su Google Maps, nel pacchetto locale "3 pack", raccoglie
-   recensioni proprie non dipendenti da Airbnb/Booking). TEST CONSIGLIATO:
-   verificare se esiste già un profilo non reclamato/non ottimizzato; se non
-   esiste, crearlo è la priorità SEO #1 (gratuito, alto impatto, ore di
-   lavoro, non giorni).
+1. **Google Business Profile: creato il 18/9, ora va ottimizzato.** Per un
+   ricettivo locale il GBP è probabilmente la singola leva SEO gratuita più
+   importante (compare su Google Maps, nel pacchetto locale "3 pack",
+   raccoglie recensioni proprie non dipendenti da Airbnb/Booking). Checklist
+   di ottimizzazione da completare (priorità SEO #1, poche ore di lavoro):
+   - Categoria principale corretta (es. "Casa vacanze"/"Affittacamere", non
+     "Hotel" — coerenza con CIPAT/CIN dichiarato sul sito).
+   - Indirizzo e area di servizio coerenti con Via dell'Asilo 21/A.
+   - Telefono/WhatsApp (+39 379 207 9221) e sito madyhometrento.com collegati.
+   - Almeno 8-10 foto reali (esterno, giardino, parcheggio, cucina, camere,
+     postazione lavoro) — le foto sono il fattore che più incide sui click
+     in ricerca locale.
+   - Descrizione breve coerente con la meta description del sito (parcheggio
+     gratuito, giardino, vicinanza ospedali/zona industriale/centro).
+   - Attributi/servizi selezionati: parcheggio gratuito, WiFi, pet-friendly,
+     adatto a famiglie, adatto a lavoro.
+   - Sezione Prodotti/Servizi con le 4 tariffe (weekend/settimanale/
+     business/lungo termine).
+   - Attivare il pulsante messaggistica per richieste dirette.
+   - Primo post GBP di benvenuto/apertura.
+   - Link "Richiedi recensione" da condividere agli ospiti dopo il checkout
+     (coordinare con Chiara).
 2. **Nessun blog/sezione contenuti.** Il sito ha 0 pagine editoriali: nessuna
    pagina su "cosa fare a Trento", eventi, zona industriale, ospedali,
    università. Significa zero possibilità di intercettare ricerche
@@ -81,7 +96,7 @@ Un contenuto/pagina a settimana, ciascuno ancorato a un target reale del sito
 
 | Settimana | Pagina/articolo | Intento | Collegamento interno |
 |---|---|---|---|
-| 1 (19-25/9) | Pagina "Google Business Profile" creata e ottimizzata (categoria, foto, orari, servizi, FAQ) | ricerca locale "appartamento Trento" | link a homepage e WhatsApp |
+| 1 (19-25/9) | Google Business Profile: completare ottimizzazione (categoria, foto, orari, servizi, FAQ, primo post) — creazione già fatta | ricerca locale "appartamento Trento" | link a homepage e WhatsApp |
 | 1-2 | Pagina "Mady Home per aziende: alloggio con fatturazione a Trento" | trasfertisti, tecnici, consulenti | link da homepage sezione business |
 | 2 | Articolo "Dove dormire a Trento vicino agli ospedali Santa Chiara e Villa Igea" | famiglie in visita a pazienti | link da FAQ e homepage |
 | 3 | Articolo "Trento per studenti e famiglie universitarie: dove alloggiare vicino a UniTrento" | inizio anno accademico (alta stagionalità a settembre-ottobre) | link da persona "studenti" |
@@ -107,5 +122,6 @@ Un contenuto/pagina a settimana, ciascuno ancorato a un target reale del sito
 ## DATI INTERNI NECESSARI per Sara
 - Accesso in sola lettura a Google Search Console e Google Analytics (se
   esistenti) per validare keyword reali e traffico attuale.
-- Conferma se esiste già un Google Business Profile (anche non ottimizzato)
-  o se va creato da zero.
+- Accesso/co-gestione al Google Business Profile appena creato per
+  completare la checklist di ottimizzazione sopra (categoria scelta,
+  verifica account, caricamento foto).

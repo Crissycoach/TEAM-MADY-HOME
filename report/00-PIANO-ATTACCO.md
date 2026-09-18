@@ -8,6 +8,12 @@ interno usato o inventato. Report completi di ogni agente in `report/`.
 **Legenda**: FATTO = verificato online con fonte · IPOTESI = deduzione
 ragionevole da validare · TEST CONSIGLIATO = esperimento a basso rischio.
 
+> **Aggiornamento 18/9/2026**: la pagina Google Business Profile è stata
+> creata dal gestore. Il quick win #1 è quindi passato da "creare" a
+> "ottimizzare" — vedi sezione 12. Restano da fare: categoria corretta,
+> foto, orari, servizi/amenità, FAQ, primo post, e attivazione della
+> richiesta recensioni Google (Chiara).
+
 ---
 
 ## 1. SITUAZIONE ATTUALE
@@ -25,11 +31,11 @@ famiglie in visita ospedaliera.
 
 Le recensioni esistenti (5 su Airbnb, riportate sul sito) sono eccellenti:
 5.0/5 con punteggi 4.8-5.0 su ogni sotto-categoria. Il problema non è la
-qualità del prodotto, ma la sua **visibilità**: nessun Google Business
-Profile trovato, nessuna presenza social, nessun blog/contenuto editoriale,
-e un volume di recensioni (5) molto sotto la media dei competitor diretti
-(93-319 recensioni). Il prodotto è pronto per crescere; il marketing non è
-ancora stato costruito.
+qualità del prodotto, ma la sua **visibilità**: il Google Business Profile
+è stato appena creato (18/9) ma va ancora ottimizzato, non c'è presenza
+social, nessun blog/contenuto editoriale, e un volume di recensioni (5)
+molto sotto la media dei competitor diretti (93-319 recensioni). Il
+prodotto è pronto per crescere; il marketing è appena partito.
 
 ## 2. MERCATO
 
@@ -75,9 +81,10 @@ Dettaglio completo in `report/01-luca-competitor.md`.
 
 ## 5. DEBOLEZZE
 
-1. **Nessun Google Business Profile** → invisibile su Google Maps e ricerca
-   locale, dove probabilmente si gioca la maggior parte delle prenotazioni
-   dirette gratuite.
+1. **Google Business Profile appena creato, non ancora ottimizzato** →
+   manca ancora categoria corretta, foto, orari, servizi, FAQ e recensioni
+   Google: finché non è completo, il vantaggio di visibilità su Maps e
+   ricerca locale resta in gran parte non sfruttato.
 2. **Nessuna presenza social** → zero contenuti che intercettino la domanda
    prima che nasca (chi cerca "cosa fare a Trento" non trova mai Mady Home).
 3. **Volume recensioni troppo basso** (5 vs 93-319 dei competitor diretti) →
@@ -92,12 +99,13 @@ Dettaglio completo in `report/01-luca-competitor.md`.
 ## 6. OPPORTUNITÀ IMMEDIATE
 
 Le 6 debolezze sopra sono, specularmente, le 6 opportunità a costo zero più
-immediate: attivare GBP, aprire i social, sistematizzare le recensioni,
-pubblicare i primi contenuti SEO, correggere l'incoerenza del sito, avviare
-i contatti B2B ai 6 prospect CALDO già identificati con contatto pubblico
-verificato (Siemens Energy Transformers, FBK, UniTrento, APSS/Santa Chiara,
-Centro Congressi Interbrennero, wedding planner locali). Dettaglio operativo
-nella sezione 12 (Quick Win) e nel piano settimanale.
+immediate: completare l'ottimizzazione del GBP appena creato, aprire i
+social, sistematizzare le recensioni (ora anche su Google), pubblicare i
+primi contenuti SEO, correggere l'incoerenza del sito, avviare i contatti
+B2B ai 6 prospect CALDO già identificati con contatto pubblico verificato
+(Siemens Energy Transformers, FBK, UniTrento, APSS/Santa Chiara, Centro
+Congressi Interbrennero, wedding planner locali). Dettaglio operativo nella
+sezione 12 (Quick Win) e nel piano settimanale.
 
 ## 7. STRATEGIA FINO AL 31 OTTOBRE
 
@@ -122,9 +130,10 @@ pubblici del sito — mai contenuti autoreferenziali.
 
 ## 9. SEO
 
-Report completo: `report/03-sara-seo.md`. Priorità: creare il Google
-Business Profile (probabilmente la singola azione a più alto impatto del
-piano), correggere l'incoerenza checkout, pubblicare 6 articoli/pagine
+Report completo: `report/03-sara-seo.md`. Priorità: completare
+l'ottimizzazione del Google Business Profile appena creato (probabilmente
+la singola azione a più alto impatto del piano), correggere l'incoerenza
+checkout, pubblicare 6 articoli/pagine
 (1/settimana) su temi già coerenti coi 4 pubblici del sito (aziende,
 ospedale, università, parcheggio/mobilità, eventi, soggiorni lunghi).
 
@@ -153,7 +162,7 @@ prenotazioni (spiegazione concreta per ciascuna, non punteggio arbitrario):
 
 | # | Azione | Perché funziona probabilmente | Tempo | Responsabile |
 |---|---|---|---|---|
-| 1 | Creare/ottimizzare Google Business Profile | Nessun competitor sembra presidiarlo bene; è il canale con più visibilità gratuita su ricerca locale/Maps | Poche ore | Sara |
+| 1 | Completare l'ottimizzazione del Google Business Profile (già creato) | Nessun competitor sembra presidiarlo bene; è il canale con più visibilità gratuita su ricerca locale/Maps — ora va solo completato: categoria giusta, foto, orari, servizi, FAQ, primo post, link recensioni | Poche ore | Sara |
 | 2 | Attivare richiesta sistematica di recensioni post-checkout | Il gap competitivo più grande e misurabile è il volume recensioni (5 vs 93-319) | Ore/settimana | Chiara |
 | 3 | Email ai 6 prospect B2B CALDO | Contatti istituzionali pubblici già verificati, domanda strutturale reale e vicina | Poche ore | Andrea |
 | 4 | Riscrivere titolo annuncio con parcheggio in evidenza | USP raro nel mercato (solo 1/21 comp lo dichiara così esplicitamente) | 30 min | Elena |
@@ -186,10 +195,11 @@ durata media soggiorno, giorni vuoti tra prenotazioni — mai vanity metrics
 
 Le 3 azioni da avviare nelle prossime 24-48 ore, per impatto e velocità di
 esecuzione:
-1. **Creare/ottimizzare il Google Business Profile** (Sara) — probabilmente
+1. **Completare l'ottimizzazione del Google Business Profile** appena creato
+   (Sara) — categoria, foto, orari, servizi, FAQ, primo post: probabilmente
    l'azione singola a più alto impatto dell'intero piano, a costo zero.
-2. **Avviare la richiesta sistematica di recensioni** (Chiara) — corregge il
-   gap competitivo più grande e misurabile.
+2. **Avviare la richiesta sistematica di recensioni, ora anche su Google**
+   (Chiara) — corregge il gap competitivo più grande e misurabile.
 3. **Inviare le prime email ai 6 prospect B2B CALDO** (Andrea) — contatti già
    verificati, nessun ostacolo a partire subito.
 
@@ -208,8 +218,9 @@ proseguire con precisione serve dal gestore di Mady Home:
 3. **Accesso a Google Search Console/Analytics** (se esistenti) per validare
    le keyword che già portano traffico, prima di scrivere contenuti "al
    buio" (Sara).
-4. **Conferma se esiste già un Google Business Profile** non ottimizzato/non
-   reclamato, o se va creato da zero (Sara).
+4. **Accesso/co-gestione al Google Business Profile appena creato** (o
+   conferma di chi lo gestisce), per completarne l'ottimizzazione: categoria
+   scelta, foto già caricate, verifica dell'account completata (Sara).
 5. **URL diretto del listing Airbnb** di Mady Home (non trovato via ricerca
    pubblica, non linkato dal sito) per monitoraggio continuo (Luca).
 6. **Testo esatto attualmente live su Airbnb/Booking** (potrebbe differire da

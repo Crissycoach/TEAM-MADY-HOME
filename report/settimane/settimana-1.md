@@ -7,7 +7,7 @@ domanda studenti/famiglie ancora aperta.
 
 | Attività | Responsabile | Canale | Dettaglio |
 |---|---|---|---|
-| Creare/ottimizzare Google Business Profile | Sara | Google | Categoria, foto, orari, servizi, descrizione (bozza di Elena), FAQ |
+| Completare ottimizzazione Google Business Profile (creazione già fatta) | Sara | Google | Categoria, foto, orari, servizi, descrizione (bozza di Elena), FAQ, primo post — vedi checklist in report/03-sara-seo.md |
 | Correggere incoerenza orario checkout sito | Sara | Sito | Allineare schema (23:59) e regolamento (10:00) |
 | Avviare richiesta recensioni sistematica per ogni checkout | Chiara | WhatsApp/Airbnb/Booking | Messaggio personalizzato entro 24h dal checkout |
 | Primi contatti email ai 3 CALDO più vicini | Andrea | Email | Siemens Energy Transformers, Centro Congressi Interbrennero, UniTrento (international@unitn.it, welcome@unitn.it) |
@@ -18,9 +18,10 @@ domanda studenti/famiglie ancora aperta.
 **Contatti da effettuare**: Siemens Energy Transformers, Centro Congressi
 Interbrennero, UniTrento (2 email istituzionali).
 
-**KPI da controllare**: GBP pubblicato (sì/no), n. recensioni richieste, n.
-email B2B inviate, n. risposte, follower/reach primi post social.
+**KPI da controllare**: GBP ottimizzato (checklist completa sì/no), n. foto
+caricate, n. recensioni richieste (incluse quelle su Google), n. email B2B
+inviate, n. risposte, follower/reach primi post social.
 
-**Risultato atteso**: presenza Google attiva, prime 2-3 email B2B inviate a
-contatti ad alta rilevanza, processo recensioni avviato, primo contenuto
-social pubblicato.
+**Risultato atteso**: GBP pubblicato E ottimizzato, prime 2-3 email B2B
+inviate a contatti ad alta rilevanza, processo recensioni avviato (anche su
+Google), primo contenuto social pubblicato.

@@ -36,10 +36,11 @@ punteggio (già eccellente).**
    (5 recensioni Airbnb vs ~4 segnalate su Booking) suggerisce che la
    raccolta recensioni su Booking è meno sistematica — allineare il processo
    su entrambi i canali.
-3. **Attivare Google Business Profile** (priorità condivisa con Sara): senza
-   GBP, Mady Home non può raccogliere recensioni Google, il canale con più
-   visibilità per chi cerca "Mady Home Trento recensioni" prima di prenotare
-   diretto.
+3. **Estendere la richiesta recensioni anche a Google** (il GBP è stato
+   creato il 18/9): appena Sara completa l'ottimizzazione del profilo,
+   includere il link diretto "lascia una recensione" nei messaggi
+   post-checkout — è il canale con più visibilità per chi cerca "Mady Home
+   Trento recensioni" prima di prenotare diretto.
 4. **Dettagli a basso costo che alzano il valore percepito** (IPOTESI basata
    su cosa premiano le recensioni positive esistenti — pulizia, accoglienza,
    praticità): welcome kit minimo (caffè Nespresso già menzionato come
