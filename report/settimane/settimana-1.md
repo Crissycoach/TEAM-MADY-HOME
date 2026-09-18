@@ -1,0 +1,26 @@
+# Settimana 1 — 19-25 settembre 2026
+
+**Obiettivo**: mettere in piedi le fondamenta gratuite mancanti (GBP,
+recensioni, primi contatti B2B) prima della finestra di alta domanda di fine
+settembre. Contesto: lezioni UniTrento già iniziate (10-14/9) — finestra di
+domanda studenti/famiglie ancora aperta.
+
+| Attività | Responsabile | Canale | Dettaglio |
+|---|---|---|---|
+| Creare/ottimizzare Google Business Profile | Sara | Google | Categoria, foto, orari, servizi, descrizione (bozza di Elena), FAQ |
+| Correggere incoerenza orario checkout sito | Sara | Sito | Allineare schema (23:59) e regolamento (10:00) |
+| Avviare richiesta recensioni sistematica per ogni checkout | Chiara | WhatsApp/Airbnb/Booking | Messaggio personalizzato entro 24h dal checkout |
+| Primi contatti email ai 3 CALDO più vicini | Andrea | Email | Siemens Energy Transformers, Centro Congressi Interbrennero, UniTrento (international@unitn.it, welcome@unitn.it) |
+| Riscrivere titolo/apertura descrizione Airbnb/Booking | Elena | Airbnb/Booking | Testare titolo con parcheggio gratuito in evidenza |
+| Pubblicare 2 contenuti social (guida trasfertisti Spini + guida studenti) | Giulia | Instagram/Facebook (creazione profili se assenti) | Vedi calendario editoriale |
+| Impostare template dashboard settimanale | Davide | Interno | Prima riga compilabile da lunedì 28/9 |
+
+**Contatti da effettuare**: Siemens Energy Transformers, Centro Congressi
+Interbrennero, UniTrento (2 email istituzionali).
+
+**KPI da controllare**: GBP pubblicato (sì/no), n. recensioni richieste, n.
+email B2B inviate, n. risposte, follower/reach primi post social.
+
+**Risultato atteso**: presenza Google attiva, prime 2-3 email B2B inviate a
+contatti ad alta rilevanza, processo recensioni avviato, primo contenuto
+social pubblicato.
