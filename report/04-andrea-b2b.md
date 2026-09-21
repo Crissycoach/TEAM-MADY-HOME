@@ -6,6 +6,25 @@ Priorità CALDO/TIEPIDO/FREDDO basata su: vicinanza geografica a Mady Home
 (Gardolo/Roncafort/Spini), evidenza concreta di flussi di persone fuori sede,
 e presenza di un contatto pubblico realmente utilizzabile.
 
+## Lead in entrata — priorità massima
+
+**BizAway srl** (Travel Management Company — prenota viaggi di lavoro per
+aziende clienti) ha contattato Mady Home spontaneamente il 20/9/2026,
+segnalando che propri viaggiatori hanno già soggiornato (14-17/9/2026, 3
+notti, 2 ospiti, prenotazione n. HM2ZEQSQE5) lasciando **5 stelle**. È il
+lead più forte del piano: non richiede prospezione, il gradimento è già
+verificato, e BizAway aggrega la domanda di più aziende clienti in un solo
+canale.
+
+**Stato**: risposta pronta (proposta di tariffa dedicata per prenotazioni
+dirette sul sito, in cambio di volumi/segnalazione ai loro viaggiatori) —
+da inviare nel thread originale dove hanno scritto (probabilmente
+Airbnb/Booking/Smoobu), oppure a **info@bizaway.com** o tramite il modulo
+fornitori **bizaway.com/it/providers/** come contatti verificati alternativi.
+**Prossimo passo**: attendere risposta su volumi stimati (notti/anno) prima
+di fissare una % di sconto precisa — nessuna cifra promessa finché non è
+verificato il margine reale (dato interno non ancora disponibile a Paolo).
+
 ## Lista prospect
 
 | Organizzazione | Settore | Sede | Perché potrebbe servire pernottamenti | Contatto pubblico | Priorità | Azione consigliata |

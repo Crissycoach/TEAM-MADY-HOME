@@ -11,6 +11,7 @@ domanda studenti/famiglie ancora aperta.
 | Correggere incoerenza orario checkout sito | Sara | Sito | Allineare schema (23:59) e regolamento (10:00) |
 | Avviare richiesta recensioni sistematica per ogni checkout | Chiara | WhatsApp/Airbnb/Booking | Messaggio personalizzato entro 24h dal checkout |
 | Primi contatti email ai 3 CALDO più vicini | Andrea | Email | Siemens Energy Transformers, Centro Congressi Interbrennero, UniTrento (international@unitn.it, welcome@unitn.it) |
+| **Rispondere a BizAway (lead in entrata, 20/9)** | Andrea | Thread originale / info@bizaway.com | Proposta partnership + tariffa dedicata, vedi report/04-andrea-b2b.md — priorità sopra i contatti a freddo |
 | Riscrivere titolo/apertura descrizione Airbnb/Booking | Elena | Airbnb/Booking | Testare titolo con parcheggio gratuito in evidenza |
 | Pubblicare 2 contenuti social (guida trasfertisti Spini + guida studenti) | Giulia | Instagram/Facebook (creazione profili se assenti) | Vedi calendario editoriale |
 | Impostare template dashboard settimanale | Davide | Interno | Prima riga compilabile da lunedì 28/9 |

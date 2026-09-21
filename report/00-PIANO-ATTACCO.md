@@ -142,7 +142,9 @@ ospedale, università, parcheggio/mobilità, eventi, soggiorni lunghi).
 Report completo: `report/04-andrea-b2b.md`. Lista di 18 prospect
 classificati CALDO/TIEPIDO/FREDDO, con 6 CALDO a contatto pubblico
 verificato (email istituzionali reali) e template email pronti per azienda,
-istituzione e location eventi.
+istituzione e location eventi. **Aggiornamento 20/9**: BizAway (Travel
+Management Company) ha contattato Mady Home in entrata, con un soggiorno già
+concluso a 5 stelle — lead a priorità massima, risposta pronta da inviare.
 
 ## 11. REVENUE
 

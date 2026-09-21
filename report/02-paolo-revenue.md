@@ -26,6 +26,24 @@ fatturazione aziendale, self check-in 24/7. **IPOTESI**: non abbassare il
 prezzo per competere con i comp economici di Gardolo — il posizionamento
 corretto è "meglio attrezzato, non più economico".
 
+## 2bis. Nuovo canale in trattativa: BizAway (TMC — corporate travel)
+
+BizAway ha contattato Mady Home il 20/9/2026 segnalando un soggiorno già
+concluso (14-17/9, 3 notti, 5 stelle lasciate) e interesse a una
+collaborazione (dettaglio in report/04-andrea-b2b.md). Se formalizzata, è un
+canale di prenotazioni dirette aggregate (una sola relazione commerciale che
+porta i viaggiatori di più aziende clienti) — coerente con l'obiettivo
+strategico di ridurre la dipendenza dalle OTA.
+
+**Metodo prezzo consigliato**: non fissare una % di sconto nella prima
+risposta. Prima farsi dare da BizAway una stima di notti/anno, poi
+calcolare lo sconto sostenibile confrontandolo con il costo di acquisizione
+attuale (commissione OTA, tipicamente 15-20% su Airbnb/Booking) — un
+codice sconto diretto anche del 10-12% resta più conveniente per Mady Home
+di una prenotazione arrivata da OTA, perché evita del tutto la commissione.
+**TEST CONSIGLIATO**: partire da un codice sconto allineato allo sconto
+fedeltà già esistente (10%), da rivedere dopo i primi volumi reali.
+
 ## 3. Leve per riempire il calendario senza sconti indiscriminati
 
 1. **Sconto per finestre di domanda concentrata note** (Luca/Andrea): fine
