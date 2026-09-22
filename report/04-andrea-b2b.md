@@ -25,6 +25,45 @@ fornitori **bizaway.com/it/providers/** come contatti verificati alternativi.
 di fissare una % di sconto precisa — nessuna cifra promessa finché non è
 verificato il margine reale (dato interno non ancora disponibile a Paolo).
 
+## Nuovo canale — Agenzie viaggio e DMC incoming per Mercatini di Natale (leva stagionale nov-gen)
+
+Ricerca del 22/9/2026 (WebSearch/WebFetch pubblici, nessuno scraping tecnico,
+nessun contatto privato). Mercatini di Natale Trento: 20/11/2026-6/1/2027.
+**Nota importante**: Mady Home (4 ospiti) non è adatto a gite in pullman con
+gruppi da 30-50 persone (che comunque di solito non pernottano) — il target
+utile sono agenzie che vendono **pacchetti weekend con pernottamento** per
+coppie/famiglie/piccoli gruppi, e soprattutto i tour operator "incoming" del
+Trentino che smistano l'alloggio per conto di decine di agenzie italiane: un
+solo contatto vale quanto dieci.
+
+**Scoperta principale**: la pagina ufficiale visittrentino.info elenca ~27
+"DMC and Incoming tour operators" del Trentino — canale a leva molto più
+efficiente del contatto singolo a un'agenzia di Milano/Roma.
+
+| Organizzazione | Tipo | Sede reale | Offerta | Contatto pubblico | Priorità |
+|---|---|---|---|---|---|
+| **Caldana Europe Travel Srl** | Tour operator + DMC (doppio ruolo) | Trento (operativo anche su Roma) | Tour Dolomiti 6gg con pernottamento, partenza da Roma, incl. Trento; sconto 50% diritti pratica per gruppi ≥6 | **booking@caldana.it**, tel. +39 0365 546 701 | 🔴 CALDO — priorità massima |
+| **Trentino Holidays (THOL)** | DMC incoming (socio UNAT) | Via dei Solteri 78, Trento | Gestisce prenotazioni alloggio/pacchetti per conto di agenzie esterne | **info@thol.it**, tel. +39 0461 822 000 | 🔴 CALDO |
+| **Tramundi** | Agenzia viaggi | Milano | Pacchetto 3gg/2notti, Trento come prima tappa, fascia alta (da €2.397/persona) | **info@tramundi.it**, tel. 02 82954252 | 🟡 TIEPIDO |
+| **Club Magellano** | Agenzia viaggi | Sordio (LO), hinterland Milano | Pacchetti con pernottamento in hotel 3*+ verso Trentino, partenze da 23-38 città | **info@clubmagellano.it**, tel. 02 39523309 | 🟡 TIEPIDO |
+| **Bergmann Incoming Touristik** | DMC incoming | Trentino | Da verificare nel dettaglio | info@bergmann.it | 🟡 TIEPIDO |
+| **Campo Base Travel & Holiday** | DMC incoming | Trentino | Da verificare nel dettaglio | info@campobase.travel | 🟡 TIEPIDO |
+| **Treventour** | DMC incoming | Trentino | Da verificare nel dettaglio | info@treventur.it | 🟡 TIEPIDO |
+| **Viaggi Peterlini** | DMC incoming | Trentino | Da verificare nel dettaglio | viaggi@peterlini.it | 🟡 TIEPIDO |
+| B&G Agenzia Viaggi | Agenzia viaggi | Rocca di Papa (RM) | Pacchetto 3gg/2notti Trento+Bressanone+Bolzano — offerta forse non aggiornata al 2026 | Solo modulo contatti sul sito | ⚪ FREDDO (verificare attualità offerta) |
+| Chiesa Viaggi, Turi Turi, Boscolo Tours, Elefante Viaggi | Agenzie/TO varie | Torino/Bergamo/Padova/Napoli (non Milano/Roma città, ma partenze anche da lì) | Pacchetti multi-giorno con pernottamento incl. Trento | Contatti pubblici trovati, vedi dettaglio ricerca | ⚪ FREDDO |
+
+Altri 20+ operatori incoming nella lista ufficiale non ancora dettagliati:
+elenco completo su visittrentino.info/en-us/trade/local-service-providers/
+dmc-incoming-tour-operators.
+
+**Azione consigliata**: contattare per primi Caldana Europe Travel e THOL
+(canale a leva), citando esplicitamente "gruppi piccoli, coppie e famiglie
+fuori dai circuiti bus da 30-50 posti" per posizionare correttamente la
+capacità di Mady Home. Da fare in Sprint 3 tardivo/inizio novembre (la
+stagione mercatini parte il 20/11), non urgente rispetto ai lead di
+settembre-ottobre.
+
 ## Lista prospect
 
 | Organizzazione | Settore | Sede | Perché potrebbe servire pernottamenti | Contatto pubblico | Priorità | Azione consigliata |
