@@ -23,3 +23,38 @@ reach post eventi, nuove recensioni, risposte email B2B.
 
 **Risultato atteso**: primo possibile aumento occupazione misurabile nel
 weekend con 4 eventi sovrapposti; prima dashboard popolata.
+
+## Bozze pronte da pubblicare (preparate il 24/9, un giorno prima del weekend eventi)
+
+Nessun connettore social è collegato a questa sessione, quindi Giulia non
+può pubblicare da sola: ecco i testi pronti da copiare e incollare appena
+possibile, idealmente entro oggi/domani per arrivare in tempo sul weekend
+25-27/9.
+
+### Post 1 — "3 eventi questo weekend a Trento" (Instagram/Facebook + gruppi locali)
+
+> Questo weekend Trento si anima: 🍾 **Trentodoc Festival** (25-27/9) tra
+> degustazioni e cantine aperte in centro, 💍 **Trento Sposi** (26-27/9) al
+> Centro Congressi Interbrennero, 🏃 **Giro al Sas** e **Half Marathon +
+> 10K** (26-27/9) tra le vie della città.
+>
+> Se vieni da fuori per uno di questi eventi e ti serve un posto comodo dove
+> stare — parcheggio gratuito incluso, a pochi minuti dal centro — scrivici,
+> abbiamo ancora qualche disponibilità per il weekend.
+>
+> 📍 Mady Home, Trento (Gardolo) · Info e disponibilità: WhatsApp/sito in bio.
+>
+> #Trento #TrentodocFestival #TrentoSposi #TrentoHalfMarathon #VisitTrentino
+
+### Reel — "Il giardino e le bici gratuite" (Instagram Reel, 15-20 secondi)
+
+> **Script**: apertura su portone/ingresso → stacco su giardino (mostra
+> spazio esterno, magari un caffè al tavolino) → stacco sulle 2 bici
+> appoggiate pronte → chiusura su vista parcheggio con auto.
+>
+> **Caption**: "Dopo una giornata di fiera o una gara alla Half Marathon,
+> torni e ti rilassi in giardino — o prendi una delle nostre bici gratuite
+> per girare Trento con calma. 🚲🌿 A Mady Home il weekend si vive senza
+> pensieri (parcheggio compreso)."
+>
+> #Trento #Gardolo #AppartamentoTrento #WeekendTrento
