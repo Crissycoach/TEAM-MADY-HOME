@@ -93,6 +93,34 @@ sono letteralmente nella stessa zona di Mady Home) e **contatti istituzionali
 verificati e riutilizzabili** (UniTrento, Interbrennero, Confindustria) — sono
 il modo più veloce di ottenere le prime prenotazioni B2B senza spesa.
 
+## Bozza pronta — Confindustria Trento (27/9, in attesa di invio)
+
+Marchiol non ha un'email pubblica diretta (solo un portale B2B ad accesso
+riservato) — resta sospeso come Siemens. Per Confindustria Trento invece
+l'email è verificata: bozza pronta, non ancora inviata (in attesa di
+conferma per l'invio diretto).
+
+> Oggetto: Mady Home come alloggio convenzionato per le aziende associate
+>
+> Buongiorno,
+> mi chiamo Cristian e gestisco Mady Home, un appartamento a Trento (zona
+> Gardolo/Roncafort) pensato per chi viaggia per lavoro: parcheggio gratuito
+> riservato, postazione con scrivania e monitor, fibra veloce e fatturazione
+> aziendale su richiesta.
+>
+> Vi scrivo perché molte aziende associate a Confindustria Trento hanno
+> probabilmente personale, tecnici o consulenti che si spostano regolarmente
+> in città. Sarei felice di proporre una tariffa dedicata alle aziende
+> associate che ne avessero bisogno — se può essere utile, ditemi voi il
+> modo migliore per farmi conoscere (newsletter interna, elenco fornitori
+> convenzionati, o altro).
+>
+> Resto a disposizione.
+>
+> Cordiali saluti,
+> Cristian — Mady Home Trento
+> madyhometrento@gmail.com · +39 379 207 9221 · madyhometrento.com
+
 ## Template email — Azienda (es. Siemens/Marchiol/Dana)
 
 > Oggetto: Alloggio a 5 minuti da [azienda] per il vostro personale in trasferta
