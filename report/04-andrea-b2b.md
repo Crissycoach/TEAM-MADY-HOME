@@ -6,6 +6,13 @@ Priorità CALDO/TIEPIDO/FREDDO basata su: vicinanza geografica a Mady Home
 (Gardolo/Roncafort/Spini), evidenza concreta di flussi di persone fuori sede,
 e presenza di un contatto pubblico realmente utilizzabile.
 
+**Regola invio (dal 28/9/2026)**: l'utente ha autorizzato l'invio autonomo
+delle email B2B non appena esiste un contatto pubblico verificato e un testo
+pronto — non serve più conferma per ogni singolo invio. Restano sempre
+verificati prima dell'invio: l'email è realmente pubblica (non scrapata), il
+tono è professionale/non spam, e il destinatario non ha già ricevuto lo
+stesso messaggio.
+
 ## Lead in entrata — priorità massima
 
 **BizAway srl** (Travel Management Company — prenota viaggi di lavoro per
@@ -78,7 +85,7 @@ settembre-ottobre.
 | Dana Italia S.r.l. | Automotive powertrain | Arco/Rovereto (~25-30 min) | 950 dipendenti in Trentino, cessione ramo in corso → consulenti M&A in trasferta | dana.com | 🟡 TIEPIDO | Contatto HR/ufficio acquisti per trasferte |
 | Fondazione Edmund Mach (FEM) | Ricerca agroalimentare | San Michele all'Adige (~15 km) | Campus con ricercatori/studenti ospiti | fmach.it | 🟡 TIEPIDO | Verificare se hanno già foresteria; proporsi come alternativa/overflow |
 | LILT Trentino — Casa di Accoglienza | Onlus oncologica | Via Nicolodi 19, Trento | Familiari pazienti oncologici, possibile overflow quando la casa è piena | Da verificare | 🟡 TIEPIDO | Proporsi come partner di segnalazione per overflow |
-| Confindustria Trento | Associazione di categoria | Palazzo Stella, Trento | ~600 imprese/30.000 addetti associati — canale di intermediazione | **martinelli@confindustria.tn.it**, 0461 360076 | 🟡 TIEPIDO | Proporsi come struttura convenzionata per le aziende associate |
+| Confindustria Trento | Associazione di categoria | Palazzo Stella, Trento | ~600 imprese/30.000 addetti associati — canale di intermediazione | **martinelli@confindustria.tn.it**, 0461 360076 | 🟡 TIEPIDO | ✅ Email inviata il 28/9/2026 da madyhometrento@gmail.com — in attesa di risposta |
 | Polo Meccatronica | Parco tecnologico automazione | Rovereto (~25-30 min) | 79 aziende insediate, personale/investitori in visita | polomeccatronica.it | 🟡 TIEPIDO | Email di presentazione generale |
 | Trentino Sviluppo S.p.A. | Agenzia sviluppo economico | Provincia di Trento | Gatekeeper per aziende che si insediano in Trentino — referral di alto valore | trentinosviluppo.it | 🟡 TIEPIDO (partner referral) | Proporsi come alloggio di riferimento per aziende in fase di insediamento |
 | Cantina Endrizzi | Vitivinicolo / location eventi | San Michele all'Adige | Ospita matrimoni ed eventi enologici (DiVin Ottobre) | endrizzi.it | 🟡 TIEPIDO | Partnership incrociata per ospiti evento |
