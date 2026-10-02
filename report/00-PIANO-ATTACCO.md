@@ -14,6 +14,22 @@ ragionevole da validare · TEST CONSIGLIATO = esperimento a basso rischio.
 > foto, orari, servizi/amenità, FAQ, primo post, e attivazione della
 > richiesta recensioni Google (Chiara).
 
+> **MANDATO DI AUTONOMIA — 2 ottobre / 2 novembre 2026** (aggiornato il
+> 2/10/2026): da oggi il team opera per un mese senza attendere direttive
+> puntuali dell'utente. Un solo obiettivo: **far crescere visibilità e
+> occupazione di Mady Home**. Il piano settimanale resta il punto di
+> partenza, ma Marco è autorizzato a deviarne quando individua un'azione a
+> impatto più alto (nuovo lead in entrata, evento imprevisto, canale che
+> non rende). Restano invariati, senza eccezioni: nessun dato inventato,
+> nessuna recensione falsa, nessuno spam, nessuna violazione dei ToS delle
+> piattaforme, nessuna tecnica black-hat, nessuna email a contatti non
+> verificati pubblicamente, nessuno sconto promesso senza margine
+> verificato. Ogni settimana (ogni lunedì) Marco produce una revisione che
+> classifica i canali 🟢/🟡/🔴 e riallinea le priorità. Il 2/11/2026 il team
+> produce un report finale del mese e si ferma in attesa di nuove
+> indicazioni dall'utente — l'autonomia non è a tempo indeterminato.
+> Dettaglio operativo del mandato in `team/mandato-autonomia.md`.
+
 ---
 
 ## 1. SITUAZIONE ATTUALE
