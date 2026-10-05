@@ -64,6 +64,42 @@ ospedaliera. Niente "venite a soggiornare da noi".
 #Trento #TrentoEventi #Gardolo #VisitTrentino #TrentoWorking #TrentinoAltoAdige
 #AppartamentoTrento #TrentodocFestival #FestivalDelloSport
 
+## TikTok (aggiornamento 5/10/2026)
+
+L'utente ha creato un account TikTok per Mady Home. Il team non ha
+connettori per pubblicare automaticamente (serve collegamento diretto
+dall'app o un'autorizzazione separata), ma produce i video pronti da
+caricare.
+
+**Video tour pronto**: generato il 5/10 un primo video verticale (13s,
+9:16) con effetto Ken Burns dalle 8 foto reali del sito ufficiale
+(giardino, soggiorno, cucina, camere, postazione lavoro), a **costo
+zero** usando ffmpeg in locale — nessun account/abbonamento richiesto.
+Niente audio incluso di proposito: aggiungere un suono di tendenza
+direttamente in TikTok al momento della pubblicazione aiuta la portata
+organica più di una colonna sonora fissa scelta a tavolino.
+
+Script riutilizzabile per i prossimi video (nuove foto, nuovi momenti
+dell'anno): `report/contenuti-social/genera-video-ken-burns.sh`.
+
+**Risorse gratuite alternative/complementari** (se si vuole uno stile
+diverso dal Ken Burns semplice):
+- **CapCut** (app gratuita, iOS/Android/desktop) — template pronti per
+  tour immobiliari, transizioni automatiche, sottotitoli, libreria
+  musicale inclusa. Lo strumento più usato dai creator TikTok, piano
+  gratuito molto completo.
+- **Funzione "Foto" nativa di TikTok** — in fase di pubblicazione, TikTok
+  permette di caricare più foto e trasformarle in automatico in uno
+  slideshow con musica, zero editing esterno necessario.
+- **Canva (piano gratuito)** — editor video con template per immobiliare/
+  real estate, esportazione diretta in formato TikTok.
+- **InShot** (app gratuita) — alternativa a CapCut, semplice da usare da
+  smartphone.
+
+Questi strumenti richiedono comunque un passaggio manuale dell'utente
+(selezionare foto, scegliere template) — lo script ffmpeg del team
+produce invece un video già montato, pronto solo da caricare.
+
 ## Note
 - Nessun contenuto deve promettere/mostrare recensioni non reali.
 - Le foto degli ospiti/famiglie vanno usate solo con consenso esplicito.
