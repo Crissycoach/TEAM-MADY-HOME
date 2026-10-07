@@ -82,6 +82,12 @@ organica più di una colonna sonora fissa scelta a tavolino.
 Script riutilizzabile per i prossimi video (nuove foto, nuovi momenti
 dell'anno): `report/contenuti-social/genera-video-ken-burns.sh`.
 
+**Aggiornamento 7/10**: generata anche una versione quadrata (1:1) dello
+stesso video per Instagram feed/Facebook, stesso costo zero, stesse foto.
+Un solo set di foto ora copre 3 piattaforme (TikTok verticale, Instagram/
+Facebook quadrato — formato orizzontale 16:9 generabile allo stesso modo
+se utile in futuro).
+
 **Risorse gratuite alternative/complementari** (se si vuole uno stile
 diverso dal Ken Burns semplice):
 - **CapCut** (app gratuita, iOS/Android/desktop) — template pronti per
