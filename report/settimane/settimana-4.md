@@ -22,3 +22,24 @@ vs OTA, traffico organico sito (se Search Console disponibile).
 **Risultato atteso**: primo bilancio di metà periodo con dati sufficienti
 per decidere cosa scalare (🟢) e cosa abbandonare (🔴) nelle ultime 2
 settimane.
+
+## Bozza pronta — post DiVin Ottobre (weekend 17-18/10)
+
+Testo pronto da pubblicare, riutilizzando i video già generati
+(`mady-home-tiktok-tour.mp4` / `mady-home-instagram-square.mp4` inviati
+il 5-7/10) o le foto singole come immagine di copertina.
+
+> Questo weekend (17-18/10) continua **DiVin Ottobre**: cantine aperte e
+> degustazioni in tutta la provincia — Val di Cembra, Piana Rotaliana,
+> Valle dei Laghi e non solo. 🍷
+>
+> Se soggiorni a Trento puoi usarla come base per esplorare più zone
+> vinicole nello stesso weekend: parcheggio gratuito incluso, quindi
+> parti e torni senza pensieri.
+>
+> 📍 Mady Home, Trento (Gardolo) · Info: WhatsApp/sito in bio.
+>
+> #Trento #DiVinOttobre #VisitTrentino #WeekendEnogastronomico #AppartamentoTrento
+
+*Nota: stesso contenuto riadattabile per i weekend successivi (24-25/10,
+31/10-1/11) cambiando solo la data — non serve rigenerare i video.*
