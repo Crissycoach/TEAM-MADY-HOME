@@ -119,6 +119,38 @@ Un contenuto/pagina a settimana, ciascuno ancorato a un target reale del sito
 - Monitoraggio mensile posizionamento sulle keyword del punto 3 (richiede
   Search Console — DATO INTERNO NECESSARIO).
 
+## 6. Bozze post GBP pronte da pubblicare (aggiunto 18/10)
+
+Testi pronti da copiare sul Google Business Profile (sezione "Post"), una
+volta completata la checklist base del punto 2. Nessun dato nuovo: riusano
+solo fatti già verificati altrove in questo report o in
+`contenuti-seo/articolo-2-aziende.md`.
+
+**Post 1 — Benvenuto/apertura:**
+> Mady Home Trento è il tuo appartamento a Gardolo, a pochi minuti da
+> centro, zona industriale Spini-Roncafort e ospedali Santa Chiara/Villa
+> Igea. Parcheggio gratuito, giardino, cucina completa. Scrivici per
+> disponibilità e tariffe (weekend, settimanale, business, lungo
+> soggiorno). 🏡
+> **[Pulsante: Prenota ora / Contattaci]**
+
+**Post 2 — Stagionale, DiVin Ottobre (valido per i weekend 24-25/10 e
+31/10-1/11, cambiando solo la data):**
+> Questo weekend continua DiVin Ottobre: cantine aperte in tutta la
+> provincia. Soggiorna a Mady Home e usa Trento come base per esplorare
+> più zone vinicole nello stesso weekend — parcheggio gratuito incluso. 🍷
+> **[Pulsante: Verifica disponibilità]**
+
+**Post 3 — Business/lavoro (evergreen):**
+> Sei a Trento per lavoro? Mady Home ha scrivania ergonomica, monitor
+> esterno e fibra veloce, oltre a 2 parcheggi gratuiti riservati e
+> check-in autonomo 24/7. Fatturazione aziendale su richiesta. 💼
+> **[Pulsante: Richiedi la tariffa business]**
+
+*Nota: i post GBP hanno un limite di circa 1.500 caratteri e restano
+visibili ~7 giorni prima di dover essere rinnovati/riproposti — vale la
+pena ripubblicare il Post 1 periodicamente se non ne arrivano di nuovi.*
+
 ## DATI INTERNI NECESSARI per Sara
 - Accesso in sola lettura a Google Search Console e Google Analytics (se
   esistenti) per validare keyword reali e traffico attuale.
