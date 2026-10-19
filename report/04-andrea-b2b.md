@@ -71,6 +71,43 @@ capacità di Mady Home. Da fare in Sprint 3 tardivo/inizio novembre (la
 stagione mercatini parte il 20/11), non urgente rispetto ai lead di
 settembre-ottobre.
 
+### Bozze email pronte per il 1/11 (preparate il 19/10, non ancora inviate)
+
+Testo identico per entrambi i destinatari, solo il nome cambia — da inviare
+dal 1/11/2026 (prima volta, verificare qui che non sia già stato fatto
+prima di inviare).
+
+**A: booking@caldana.it (Caldana Europe Travel) — oggetto: Appartamento a Trento per gruppi piccoli verso i Mercatini di Natale**
+
+> Buongiorno,
+>
+> sono Cristian, gestisco Mady Home, un appartamento a Trento (zona
+> Gardolo, a pochi minuti dal centro) con parcheggio gratuito e capacità
+> per 4 ospiti.
+>
+> Vi scrivo in vista dei Mercatini di Natale di Trento (20/11/2026-6/1/2027):
+> so che gran parte della vostra offerta lavora su gruppi in pullman da
+> 30-50 posti, che in genere non pernottano — non è il caso di Mady Home.
+> Mi rivolgo a voi per l'altra parte della domanda che probabilmente
+> gestite: coppie, famiglie e piccoli gruppi che invece cercano un
+> pernottamento a Trento per il periodo dei mercatini.
+>
+> Se utile, resto disponibile per una tariffa dedicata per i vostri
+> clienti in questo periodo. Fatemi sapere se può essere di interesse.
+>
+> Cordiali saluti,
+> Cristian — Mady Home Trento
+> [telefono/WhatsApp e sito da inserire in firma]
+
+**B: info@thol.it (Trentino Holidays) — stesso testo, con "Buongiorno" e
+nessun riferimento a "voi" generico da adattare se THOL preferisce un tono
+più istituzionale (sono un DMC incoming, non un'agenzia di viaggio al
+dettaglio) — stesso contenuto sostanziale.**
+
+*Nota: nessuno sconto percentuale è stato promesso in questo testo (manca
+il dato di margine verificato) — solo "tariffa dedicata", coerente con la
+regola del mandato.*
+
 ## Lista prospect
 
 | Organizzazione | Settore | Sede | Perché potrebbe servire pernottamenti | Contatto pubblico | Priorità | Azione consigliata |
