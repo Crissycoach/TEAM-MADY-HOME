@@ -114,8 +114,17 @@ Un contenuto/pagina a settimana, ciascuno ancorato a un target reale del sito
 - Programma di link building organico: directory turistiche locali gratuite,
   Pro Loco, portali del Comune di Trento/APT Trento, elenco strutture
   ricettive locali.
-- Valutare recupero/creazione presenza su TripAdvisor (non trovata in
-  ricerca — vedi report Luca/Chiara).
+- ~~Valutare recupero/creazione presenza su TripAdvisor~~ — **verificato
+  il 20/10**: secondo una fonte di settore (Smoobu), TripAdvisor avrebbe
+  chiuso il servizio "Tripadvisor Rentals" che permetteva ai proprietari
+  di creare nuovi annunci di case vacanza; un'altra fonte (Hostaway,
+  aggiornata a febbraio 2026) descrive il canale come ancora attivo —
+  fonti in conflitto, quindi IPOTESI non del tutto risolta. In ogni caso
+  TripAdvisor resterebbe utile solo per le recensioni, non più come
+  canale di prenotazione diretta. **Decisione**: non creare materiale per
+  un nuovo annuncio TripAdvisor finché non si verifica direttamente sul
+  sito/centro assistenza proprietari — area a basso valore atteso anche
+  se il servizio fosse ancora attivo, rispetto ai canali già in uso.
 - Monitoraggio mensile posizionamento sulle keyword del punto 3 (richiede
   Search Console — DATO INTERNO NECESSARIO).
 

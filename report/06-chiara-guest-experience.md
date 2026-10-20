@@ -52,6 +52,30 @@ punteggio (già eccellente).**
    Booking), entro 48h — segnale di cura che futuri ospiti leggono prima di
    prenotare.
 
+## Messaggio pronto — richiesta recensione post-checkout (aggiunto 20/10)
+
+Template da personalizzare (il dettaglio tra parentesi) e inviare via
+WhatsApp/chat Airbnb entro 24h dal checkout. Testo neutro, nessuna
+pressione, nessuna promessa in cambio della recensione (niente sconti in
+cambio — sarebbe contro le policy delle piattaforme e contro le regole del
+mandato):
+
+> Ciao [nome]! Grazie ancora per aver scelto Mady Home — è stato un
+> piacere avervi ospitati [dettaglio specifico: es. "e sentire che vi è
+> piaciuta la zona tranquilla"]. Se ti va di lasciare due righe sulla tua
+> esperienza, significherebbe molto per noi: [link recensione Airbnb/
+> Booking]. Se invece c'è qualcosa che potremmo migliorare, scrivimelo
+> pure direttamente qui. A presto! — Cristian
+
+**Versione breve per Google (da usare appena il link "lascia una
+recensione" del GBP è attivo — vedi `03-sara-seo.md`):**
+> Se hai un minuto, una recensione su Google ci aiuta molto a farci
+> trovare da altri viaggiatori: [link GBP]. Grazie di cuore!
+
+*Nota: nessun sollecito ripetuto oltre un singolo follow-up gentile dopo
+~5-7 giorni se non arriva risposta — coerente con la regola "mai spam" del
+mandato.*
+
 ## Cosa monitorare nei competitor (da Luca) per capire cosa genera recensioni
 - YuGoGo: lamentele ricorrenti su mancanza di condimenti/dotazioni base in
   cucina — Mady Home ha già cucina molto attrezzata (induzione, forno,
