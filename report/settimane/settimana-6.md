@@ -24,3 +24,27 @@ partenza del 18/9.
 
 **Risultato atteso**: report consuntivo completo del periodo 19/9-31/10,
 base dati per la strategia di novembre-dicembre (mercatini di Natale).
+
+## Bozza pronta — teaser Mercatini di Natale (preparata il 21/10, in anticipo)
+
+Il vantaggio di questo contenuto è proprio l'anticipo (nessun competitor
+lo fa ancora a fine ottobre) — pronta da pubblicare appena si entra
+nell'ultima settimana di ottobre, senza aspettare l'ultimo giorno:
+
+> Tra poco più di 3 settimane aprono i Mercatini di Natale di Trento
+> (20/11/2026-6/1/2027) 🎄 — uno dei periodi più richiesti dell'anno per
+> chi visita la città.
+>
+> Se stai già pensando a quando prenotare: a Mady Home hai parcheggio
+> gratuito incluso (comodo per chi arriva con l'auto per evitare il
+> traffico del centro durante i mercatini) e spazio vero per famiglie o
+> piccoli gruppi, non solo una camera d'hotel.
+>
+> 📍 Mady Home, Trento (Gardolo) · Info: WhatsApp/sito in bio.
+>
+> #MercatiniDiNatale #Trento #VisitTrentino #Natale2026 #AppartamentoTrento
+
+*Nota: nessuna tariffa/sconto specifico citato in questo post — da
+aggiungere solo se e quando Paolo definisce i prezzi del periodo (dato
+interno). Riutilizza solo le date ufficiali dei mercatini, già verificate
+in `report/04-andrea-b2b.md`.*
