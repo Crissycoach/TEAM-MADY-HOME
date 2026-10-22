@@ -20,11 +20,31 @@ massimi, margine di miglioramento minimo ma reale.
 
 ## Il problema numero uno: il volume di recensioni, non la qualità
 Confrontando con i competitor mappati da Luca (93-319 recensioni tra i
-principali comp), Mady Home ne ha 5 su Airbnb. Il punteggio è ottimo, ma un
-punteggio alto su pochissime recensioni pesa meno, in decisione d'acquisto e
-in ranking Airbnb/Google, di un punteggio leggermente più basso su centinaia
-di recensioni. **Priorità assoluta di Chiara: aumentare il volume, non il
-punteggio (già eccellente).**
+principali comp), Mady Home ne ha 5 su Airbnb (dato di metà settembre). Il
+punteggio è ottimo, ma un punteggio alto su pochissime recensioni pesa meno,
+in decisione d'acquisto e in ranking Airbnb/Google, di un punteggio
+leggermente più basso su centinaia di recensioni. **Priorità assoluta di
+Chiara: aumentare il volume, non il punteggio (già eccellente).**
+
+## Aggiornamento 21/10 — prime nuove recensioni osservate (FATTO, verificato)
+
+Il team ha avuto accesso alle notifiche email reali di Airbnb/Smoobu legate
+a Mady Home (stesso canale già usato per l'invio delle email B2B). Dalle
+notifiche di recensione ricevute tra il 18/9 e il 21/10 risultano **4 nuove
+recensioni** (nomi diversi dalle 5 originarie rilevate da Luca):
+- Francesco — 5★ (notifica del 18/9)
+- Karol — 5★ (19/9)
+- Irene — 4★ (13/10)
+- Ann — 5★ (20/10)
+
+Il totale recensioni Airbnb sale quindi da 5 ad **almeno 9** (salvo
+sovrapposizioni di nome non verificabili da qui — nessun testo di recensione
+letto, solo le notifiche di punteggio). Nessuna di queste è attribuibile al
+nuovo messaggio di richiesta recensione (aggiunto solo il 20/10): sono
+turnover naturale, utile comunque come nuova base di partenza per misurare
+l'effetto del messaggio da qui in avanti. **Prossimo controllo utile**:
+verificare tra qualche settimana se il tasso di recensioni per soggiorno
+aumenta rispetto a questa base.
 
 ## Azioni immediate (costo zero)
 

@@ -57,6 +57,37 @@ Cosa aumentiamo: __
 Cosa tagliamo: __
 ```
 
+## Aggiornamento 21/10 — primo accesso parziale a dati reali (FATTO)
+
+Il team ha trovato le notifiche email reali di Smoobu/Airbnb/Booking.com
+legate a Mady Home, nello stesso account email già collegato per l'invio
+delle email B2B. **Questo non è l'accesso diretto al gestionale richiesto
+sopra** (niente calendario completo, niente occupazione %, niente ADR
+esatto) ma permette una prima ricostruzione parziale, solo per attività
+osservabile via notifica:
+
+**Prenotazioni/cancellazioni ricevute 21/9-21/10 (FATTO, ricostruito da
+notifiche email — possono mancare prenotazioni dirette via WhatsApp/altri
+canali senza notifica Smoobu)**:
+- 17 notifiche di nuova prenotazione (Airbnb + Booking.com), di cui alcune
+  per soggiorni futuri (novembre, dicembre, gennaio).
+- 4 notifiche di cancellazione nello stesso periodo (Maria Luise Ludes,
+  Karolin Kessel, Francesca Romano, Rok Slama) — un tasso di cancellazione
+  "visto" di circa 1 su 4-5 prenotazioni in questo campione. Non è
+  possibile dire se sia normale o preoccupante senza uno storico di
+  confronto (IPOTESI: da monitorare, non da allarmarsi su un solo mese).
+- Attività continua: soggiorni si susseguono quasi senza vuoti visibili tra
+  inizio e metà ottobre (turni di 1-4 notti), attività più rada verso fine
+  mese dopo le cancellazioni.
+- 3 compensi Airbnb ricevuti nel periodo: 162,42€, 188,68€, 69,46€ (dato
+  reale ma non ricollegato con certezza a quale singolo soggiorno).
+
+**Cosa resta non disponibile**: occupazione % esatta, ADR, RevPAR, margine,
+% prenotazioni dirette — richiedono il calendario completo (anche le notti
+senza alcuna notifica, cioè le notti vuote, qui non si vedono). Vedi anche
+l'aggiornamento recensioni in `06-chiara-guest-experience.md` (stesso
+metodo, 4 nuove recensioni osservate).
+
 ## Nota
 Questa dashboard richiede dati interni (calendario/gestionale, Search Console,
 Insights social, esiti email B2B) che il team non può popolare da fonte
