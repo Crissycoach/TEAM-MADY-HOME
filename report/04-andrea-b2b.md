@@ -13,6 +13,17 @@ verificati prima dell'invio: l'email è realmente pubblica (non scrapata), il
 tono è professionale/non spam, e il destinatario non ha già ricevuto lo
 stesso messaggio.
 
+**Regola verifica risposte (aggiunta il 23/10/2026)**: fino a oggi il team
+ha scritto 4 volte di fila (revisione 1, 2, 3 e bilancio di metà periodo)
+che "0 risposte B2B" erano arrivate, senza aver mai controllato la posta in
+arrivo — solo assunto, per mancanza di segnale contrario. Il 23/10 è stato
+verificato l'inbox reale (stesso accesso email già usato per l'invio) e sono
+emerse **2 risposte già arrivate da settimane** (UniTrento il 22/9,
+Interbrennero il 5/10 — dettagli nelle rispettive righe sotto). Il
+follow-up a UniTrento del 5/10 è stato inviato senza sapere della risposta
+già ricevuta, risultando ridondante. **Da ora**: controllare l'inbox prima
+di ogni nuovo invio/follow-up, non solo assumere silenzio.
+
 ## Lead in entrata — priorità massima
 
 **BizAway srl** (Travel Management Company — prenota viaggi di lavoro per
@@ -23,14 +34,16 @@ lead più forte del piano: non richiede prospezione, il gradimento è già
 verificato, e BizAway aggrega la domanda di più aziende clienti in un solo
 canale.
 
-**Stato**: risposta pronta (proposta di tariffa dedicata per prenotazioni
-dirette sul sito, in cambio di volumi/segnalazione ai loro viaggiatori) —
-da inviare nel thread originale dove hanno scritto (probabilmente
-Airbnb/Booking/Smoobu), oppure a **info@bizaway.com** o tramite il modulo
-fornitori **bizaway.com/it/providers/** come contatti verificati alternativi.
-**Prossimo passo**: attendere risposta su volumi stimati (notti/anno) prima
-di fissare una % di sconto precisa — nessuna cifra promessa finché non è
-verificato il margine reale (dato interno non ancora disponibile a Paolo).
+**Stato**: ✅ **Email inviata il 23/10/2026 a info@bizaway.com** — proposta
+di tariffa dedicata per prenotazioni dirette segnalate da loro, in cambio
+di volumi, richiesta una stima di notti/anno prima di fissare una %
+precisa (nessuna cifra promessa, come da regola margine non verificato).
+**Nota importante**: questo lead era rimasto bloccato per oltre un mese
+(contatto spontaneo del 20/9, mai inviata risposta nonostante fosse "il
+lead più forte del piano") — scoperto e corretto solo il 23/10 controllando
+l'inbox reale, nello stesso giro in cui sono emerse anche le risposte non
+lette di UniTrento/Interbrennero (vedi nota in cima al file). In attesa di
+risposta, nessun ulteriore sollecito previsto salvo un unico follow-up.
 
 ## Nuovo canale — Agenzie viaggio e DMC incoming per Mercatini di Natale (leva stagionale nov-gen)
 
@@ -114,9 +127,9 @@ regola del mandato.*
 |---|---|---|---|---|---|---|
 | **Siemens Energy Transformers** | Manifattura trasformatori elettrici | Via di Spini 9, Gardolo — adiacente a Mady Home | 288 dipendenti, ampliamento da €30 mln in corso (2025) → tecnici, fornitori, auditor in trasferta | Ricerca ripetuta (18/9 e 9/10): solo **PEC** (amministrazione@siemenstransformers.telecompec.it — non adatta per un primo contatto informale) e **telefono 0461 957111**. Nessuna email generale pubblica trovata | 🔴 CALDO | ⏳ **Serve una telefonata**, non automatizzabile da qui: chiedere dell'ufficio acquisti/trasferte e proporre Mady Home per il personale in trasferta. Se preferisci, posso scrivere alla PEC, ma è meno indicato per un primo contatto commerciale |
 | **Fondazione Bruno Kessler (FBK)** | Ricerca ICT/materiali/scienze sociali | Via Sommarive 18, Povo | 400+ ricercatori, 140 dottorandi, ~200 visiting fellow/anno | Form contatti fbk.eu | 🔴 CALDO | Email a ufficio ospitalità/mobilità ricercatori, proporre tariffa convenzionata |
-| **Università di Trento (UniTrento)** | Università | Centro, Povo, Mesiano, Rovereto | ~40 visiting professor/anno, 3.300 nuove matricole (lezioni dal 10-14/9/2026), staff internazionale in arrivo | **international@unitn.it**, **welcome@unitn.it** | 🔴 CALDO | ✅ Email inviata il 22/9, ✅ follow-up unico inviato il 5/10/2026 — in attesa di risposta, nessun ulteriore sollecito previsto |
+| **Università di Trento (UniTrento)** | Università | Centro, Povo, Mesiano, Rovereto | ~40 visiting professor/anno, 3.300 nuove matricole (lezioni dal 10-14/9/2026), staff internazionale in arrivo | **international@unitn.it**, **welcome@unitn.it** | 🔴 CALDO | ✅ Email inviata il 22/9 — **risposta ricevuta lo stesso giorno (22/9)**: reindirizza al servizio ufficiale TRENT (trent.operauni.tn.it), non conversione diretta. **Errore del team**: il follow-up del 5/10 è stato inviato senza controllare la posta in arrivo e non sapendo della risposta già ricevuta — l'università ha risposto di nuovo il 5/10 segnalando "le avevo già risposto". Chiuso: nessun ulteriore contatto, l'esito è un rifiuto educato (non è il target giusto per questa università) |
 | **APSS (incl. Ospedale Santa Chiara)** | Sanità pubblica | Largo Medaglie d'Oro, Trento | ~8.000 dipendenti, 800 medici convenzionati, medici a gettone/sostituti, famiglie pazienti | Contatti istituzionali apss.tn.it | 🔴 CALDO | Proporsi come alloggio convenzionato per personale sanitario temporaneo e famiglie in visita prolungata |
-| **Centro Congressi Interbrennero** | Location eventi/congressi | Via di Spini, Interporto — adiacente a Mady Home | Ospita fiere/congressi tutto l'anno (es. Trento Sposi 26-27/9) | **congressi@interbrennero.it**, tel. 0461 993244 | 🔴 CALDO | ✅ Email inviata il 22/9, ✅ follow-up unico inviato il 5/10/2026 — in attesa di risposta, nessun ulteriore sollecito previsto |
+| **Centro Congressi Interbrennero** | Location eventi/congressi | Via di Spini, Interporto — adiacente a Mady Home | Ospita fiere/congressi tutto l'anno (es. Trento Sposi 26-27/9) | **congressi@interbrennero.it**, tel. 0461 993244 | 🔴 CALDO | ✅ Email inviata il 22/9, follow-up il 5/10 — **risposta ricevuta il 5/10/2026**: "messaggio ricevuto, in caso di bisogno sarà preso in considerazione" — acquisizione tiepida, non un sì ma nemmeno un no. Chiuso: nessun ulteriore contatto, resta un referral passivo |
 | **Wedding planner (Emozioniamoci, MAKE A Wedding Planner)** | Wedding planning | Trento/Dolomiti | Matrimoni con invitati fuori sede, più notti nei weekend | Moduli contatto sui rispettivi siti | 🔴 CALDO | Proporre partnership commerciale diretta: pacchetto gruppo per famiglie/invitati |
 | Marchiol S.p.A. (filiale Trento) | Distribuzione materiale elettrico | Via delle Palazzine 107, Spini di Gardolo | Filiale di gruppo (700 dip./22 sedi), agenti/tecnici regionali in movimento | Ricerca 15/10: trovata solo info@marchiol.com da fonte di ~2 anni fa (non specifica alla filiale di Trento, non verificabile come aggiornata) — troppo incerta per l'invio. Telefono filiale: 0461 955611 | 🟡 TIEPIDO | ⏳ Serve telefonata (come Siemens) per confermare contatto email corretto, oppure indicazione dell'utente |
 | Dana Italia S.r.l. | Automotive powertrain | Arco/Rovereto (~25-30 min) | 950 dipendenti in Trentino, cessione ramo in corso → consulenti M&A in trasferta | ⏳ Trovata solo email personale (luca.balboni@dana.com) e PEC — nessun indirizzo di ruolo pubblico trovato il 3/10, resta sospeso per coerenza con la regola "no email personali" | 🟡 TIEPIDO | In sospeso — serve indirizzo di ruolo (hr@/info@) o contatto diretto dall'utente |
