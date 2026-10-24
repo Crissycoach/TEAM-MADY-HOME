@@ -48,3 +48,23 @@ nell'ultima settimana di ottobre, senza aspettare l'ultimo giorno:
 aggiungere solo se e quando Paolo definisce i prezzi del periodo (dato
 interno). Riutilizza solo le date ufficiali dei mercatini, già verificate
 in `report/04-andrea-b2b.md`.*
+
+## Bozza pronta — chiusura DiVin Ottobre (preparata il 24/10, weekend 24-25/10)
+
+Penultimo weekend del mese; resta solo quello del 31/10-1/11 dopo questo.
+
+> Ultimi weekend di DiVin Ottobre 🍷 — cantine aperte in tutta la
+> provincia fino a fine mese. Se non ci sei ancora stato, è il momento
+> giusto: da Mady Home parti con parcheggio gratuito incluso.
+>
+> E a proposito di cosa viene dopo: tra poche settimane prendono il via i
+> Mercatini di Natale di Trento. Resta nei paraggi per le novità di
+> novembre 🎄
+>
+> 📍 Mady Home, Trento (Gardolo) · Info: WhatsApp/sito in bio.
+>
+> #DiVinOttobre #Trento #VisitTrentino #AppartamentoTrento
+
+*Nota: stesso contenuto riadattabile per l'ultimo weekend (31/10-1/11)
+cambiando solo "ultimi weekend" in "ultimo weekend" — non serve rigenerare
+nulla.*
